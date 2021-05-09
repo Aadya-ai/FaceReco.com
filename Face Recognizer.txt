@@ -1,0 +1,4 @@
+https://teachablemachine.withgoogle.com/models/-K5DxUG4G/
+
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-11 login_div" text="align='center'">
+</div>
